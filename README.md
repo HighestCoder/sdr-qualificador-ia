@@ -35,7 +35,7 @@ Este projeto tem como objetivo automatizar e qualificar respostas de SDR (Sales 
 **Nota:** As instruções de configuração de API (chaves, tokens) serão adicionadas futuramente ou devem ser solicitadas separadamente.
 
 ## AUTOR
-YAGO LEOANRDO C. FERNANDES
+ YAGO LEOANRDO C. FERNANDES
 
 ## 🧪 Como executar o projeto
 
