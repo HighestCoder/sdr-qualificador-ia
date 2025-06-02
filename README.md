@@ -22,6 +22,7 @@ Este projeto tem como objetivo automatizar e qualificar respostas de SDR (Sales 
 ├── requisitos.txt
 ├── SDR Automatizado com IA para Q.txt
 └── README.md
+
 ## ⚠️ Requisitos e Avisos Importantes
 
 > Este projeto **não está funcional por completo** no momento, pois depende de integrações com APIs externas que **ainda não foram incluídas** por questões de acesso ou chave de API.
@@ -39,3 +40,6 @@ Este projeto tem como objetivo automatizar e qualificar respostas de SDR (Sales 
 1. Clone este repositório:
 ```bash
 git clone https://github.com/HighestCoder/sdr-qualificador-ia.git
+
+  ## AUTOR
+YAGO LEOANRDO C. FERNANDES 
