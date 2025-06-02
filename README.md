@@ -22,6 +22,16 @@ Este projeto tem como objetivo automatizar e qualificar respostas de SDR (Sales 
 ├── requisitos.txt
 ├── SDR Automatizado com IA para Q.txt
 └── README.md
+## ⚠️ Requisitos e Avisos Importantes
+
+> Este projeto **não está funcional por completo** no momento, pois depende de integrações com APIs externas que **ainda não foram incluídas** por questões de acesso ou chave de API.
+
+### APIs necessárias (não incluídas):
+- OpenAI (para uso do modelo GPT)
+- spaCy (modelo de linguagem)
+- Outras integrações específicas, se houver
+
+**Nota:** As instruções de configuração de API (chaves, tokens) serão adicionadas futuramente ou devem ser solicitadas separadamente.
 
 
 ## 🧪 Como executar o projeto
