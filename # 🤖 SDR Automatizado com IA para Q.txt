@@ -1,0 +1,55 @@
+# 🤖 SDR Automatizado com IA para Qualificação de Leads
+
+Este projeto demonstra um fluxo automatizado para qualificação de leads usando inteligência artificial. Ele simula o trabalho de um SDR (Sales Development Representative), realizando classificação automática de leads, tomada de decisões e disparo de e-mails personalizados.
+
+---
+
+## 📌 Visão Geral
+
+![Fluxo SDR](./fluxo-sdr.png)
+
+O fluxo foi construído em plataforma de automação (ex: Make.com, N8N, ou similar) e segue as etapas:
+
+1. **Recebe dados via Webhook**
+2. **Sanitiza os dados**
+3. **Consulta banco de dados**
+4. **Consulta IA para classificação do lead**
+5. **Define se o atendimento continua ou não**
+6. **Classifica o lead como quente ou frio**
+7. **Dispara o e-mail adequado e salva dados em memória**
+8. **Notifica equipe para leads qualificados**
+
+---
+
+## 🚀 Tecnologias Usadas
+
+- Plataforma de automação visual (ex: N8N / Make.com)
+- Integração com OpenAI
+- Banco de dados (opcional)
+- Automação de e-mails
+- Webhooks
+- Lead scoring
+
+---
+
+## 🧠 Inteligência Artificial
+
+O fluxo utiliza IA para entender e classificar o lead com base nos dados recebidos, como:
+
+- Nome, empresa e e-mail
+- Interesse declarado
+- Palavras-chave detectadas
+- Histórico do lead
+
+---
+
+## 📬 Exemplos de Ações
+
+- Lead quente → Agendamento automático de reunião + aviso à equipe
+- Lead frio → E-mail personalizado para nutrir
+- Lead com e-mail inválido → Fim da automação
+
+---
+
+## 📂 Estrutura do Projeto
+
