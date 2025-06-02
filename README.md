@@ -34,6 +34,8 @@ Este projeto tem como objetivo automatizar e qualificar respostas de SDR (Sales 
 
 **Nota:** As instruções de configuração de API (chaves, tokens) serão adicionadas futuramente ou devem ser solicitadas separadamente.
 
+## AUTOR
+YAGO LEOANRDO C. FERNANDES
 
 ## 🧪 Como executar o projeto
 
@@ -41,5 +43,4 @@ Este projeto tem como objetivo automatizar e qualificar respostas de SDR (Sales 
 ```bash
 git clone https://github.com/HighestCoder/sdr-qualificador-ia.git
 
-  ## AUTOR
-YAGO LEOANRDO C. FERNANDES 
+   
