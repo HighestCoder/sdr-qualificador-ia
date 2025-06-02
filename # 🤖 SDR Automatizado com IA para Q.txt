@@ -1,4 +1,4 @@
-# 🤖 SDR Automatizado com IA para Qualificação de Leads
+# 🤖 SDR Qualificador de Leads #
 
 Este projeto demonstra um fluxo automatizado para qualificação de leads usando inteligência artificial. Ele simula o trabalho de um SDR (Sales Development Representative), realizando classificação automática de leads, tomada de decisões e disparo de e-mails personalizados.
 
@@ -51,5 +51,6 @@ O fluxo utiliza IA para entender e classificar o lead com base nos dados recebid
 
 ---
 
-## 📂 Estrutura do Projeto
+## Autor
 
+Yago Leonardo Castro 
